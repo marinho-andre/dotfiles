@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = marinho_andre@outlook.com
+	name = Andre Marinho
